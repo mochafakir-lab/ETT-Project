@@ -1,0 +1,2 @@
+﻿Response: ETT (Electricity Transformer Temperature) is a benchmark dataset widely used for time series forecasting research. It was collected from electricity transformers in China between July 2016 and July 2018.
+Sources: ['data\\ett_overview.md', 'data\\ett_overview.md', 'data\\ett_overview.md', 'data\\llm_forecasting.md', 'data\\llm_forecasting.md']
